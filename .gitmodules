@@ -4,3 +4,6 @@
 [submodule "env/kendryte-freertos-sdk"]
 	path = env/kendryte-freertos-sdk
 	url = https://github.com/kendryte/kendryte-freertos-sdk
+[submodule "env/kendryte-standalone-demo"]
+	path = env/kendryte-standalone-demo
+	url = https://github.com/kendryte/kendryte-standalone-demo
