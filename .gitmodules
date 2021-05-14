@@ -1,0 +1,9 @@
+[submodule "doc/kendryte-doc-standalone-programming-guide"]
+	path = doc/kendryte-doc-standalone-programming-guide
+	url = https://github.com/kendryte/kendryte-doc-standalone-programming-guide
+[submodule "doc/kendryte-doc-freertos-programming-guide"]
+	path = doc/kendryte-doc-freertos-programming-guide
+	url = https://github.com/kendryte/kendryte-doc-freertos-programming-guide
+[submodule "doc/kendryte-doc-datasheet"]
+	path = doc/kendryte-doc-datasheet
+	url = https://github.com/kendryte/kendryte-doc-datasheet
